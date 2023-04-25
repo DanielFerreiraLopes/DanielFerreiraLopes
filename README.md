@@ -1,13 +1,10 @@
-### Ola me chamo Daniel {
-Sou Estudante da Etec Antonio Devisate e estou aprendendo PHP;
+### Ola me chamo Daniel 
 
-Gosto de ocupar minha mente com atividades mentais, quais quer que sejam;
+##
 
-Costumo ser reservado e planejar meu cronograma quando tenho trabalhos a fazer;
+## Ferramentas e Tecnologias
 
-No meu tempo livre custumo ler ou navergar na internet na procura de coisas do meu interrese;
-
-}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
 ## Contatos:
