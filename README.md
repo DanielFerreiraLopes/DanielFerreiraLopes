@@ -5,6 +5,7 @@
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/53489910/71287714-028fcd80-2361-11ea-9869-e9dbe2b971d4.png" width="40" height="40"/>
 
 
 ## Contatos:
