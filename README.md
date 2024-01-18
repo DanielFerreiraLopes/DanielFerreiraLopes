@@ -1,11 +1,12 @@
-### Ola me chamo Daniel 
+## Ola me chamo Daniel 
 
-##
 
 ## Ferramentas e Tecnologias
 
 <div style="displey: flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/53489910/71287714-028fcd80-2361-11ea-9869-e9dbe2b971d4.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="80" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="80" height="40"/>
 </div>
 
 
