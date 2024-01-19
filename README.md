@@ -1,21 +1,59 @@
-## Ola me chamo Daniel 
+<h2 align="center">Te ofereço um Bom dia!</h2>
 
+<p>Meu nome é <b>Daniel Ferreira Lopes</b>, tenho atualmente 17 anos</p>
+<p>Comecei meus estudos na área de programação oficialmente em 2021, cursando o Ensino médio integrado ao Técnico de Desenvolvimento de Sistemas na ETEC e terminei em 2023 me graduando.</p>
+<p></p>
 
-## Ferramentas e Tecnologias
+<h2>- Objetivo</h2>
+<p>Agora pretendo continuar meus estudos na área de programação e conseguir uma oportunidade profissional </p>
+<p></p>
 
-<div style="displey: flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="80" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="80" height="40"/>
+<h2> - Conhecimento de Linguagens </h2>
+<table border="none" align="center">
+<tr>
+  <td><img src="https://i.imgur.com/CpombmN.gif" align="center"></td>
+  <td>
+    <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>PHP</li>
+    <li>MySql</li>
+    <li>Laravel</li>
+    <li>Git</li>
+    </ul>
+</table>
+<div style="displey: flex;" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"  width="40">
 </div>
 
 
-## Contatos:
-<a href="https://www.linkedin.com/in/daniel-lopes-905a5b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:danielferrari772@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h2> - Contatos/Redes Sociais: </h2>
+
+<a href="https://www.linkedin.com/in/daniel-lopes-905a5b248/" target="_blank"> 
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" target="_blank"  align="center" width="40px"> 
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100031817224506&mibextid=ZbWKwL"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/480px-Facebook_f_logo_%282019%29.svg.png"  align="center" width="40px"> 
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5514991522204&text=Oi%2C%20vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20conversar%20um%20pouco"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png"   align="center" width="40px">
+</a>
+
+ <a href="https://www.instagram.com/danielferreira5434/">
+    <img src="https://i.imgur.com/JrjiVq0.png" align="center" width="40px">
+</a>
+<p>
+<p>Espero nos encontramos, pode chamar se tiver algum problema ou quiser conversar sobre nada... ou tudo👍</p>
 
 <!--
 **DanielFerreiraLopes/DanielFerreiraLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
