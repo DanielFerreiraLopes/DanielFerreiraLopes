@@ -23,12 +23,6 @@
     <li>Git</li>
     </ul>
 </table>
-<div style="displey: flex;" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="80" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="80" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"  width="40">
-</div>
 
 
 <h2> - Contatos/Redes Sociais: </h2>
