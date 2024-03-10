@@ -1,11 +1,8 @@
 <h2 align="center">Te ofereço um Bom dia!</h2>
 
 <p>Meu nome é <b>Daniel Ferreira Lopes</b>, tenho atualmente 17 anos</p>
+<p>Estou atualmente estudando na Faculdade Unimar, seguindo meus esstudos na área de TI em Ánalise e Desenvolvimento de Sistemas</p>
 <p>Comecei meus estudos na área de programação oficialmente em 2021, cursando o Ensino médio integrado ao Técnico de Desenvolvimento de Sistemas na ETEC e terminei em 2023 me graduando.</p>
-<p></p>
-
-<h2>- Objetivo</h2>
-<p>Agora pretendo continuar meus estudos na área de programação e conseguir uma oportunidade profissional </p>
 <p></p>
 
 <h2> - Conhecimento de Linguagens </h2>
