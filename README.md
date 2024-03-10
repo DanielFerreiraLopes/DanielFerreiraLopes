@@ -43,7 +43,7 @@
     <img src="https://i.imgur.com/JrjiVq0.png" align="center" width="40px">
 </a>
 <p>
-<p>Espero nos encontramos, pode chamar se tiver algum problema ou quiser conversar sobre nada... ou tudo👍</p>
+<p>Espero nos encontramos, pode chamar se tiver algum problema ou quiser conversar</p>
 
 <!--
 **DanielFerreiraLopes/DanielFerreiraLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
