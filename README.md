@@ -28,10 +28,6 @@
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" target="_blank"  align="center" width="40px"> 
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100031817224506&mibextid=ZbWKwL"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/480px-Facebook_f_logo_%282019%29.svg.png"  align="center" width="40px"> 
-</a>
-
 <a href="https://api.whatsapp.com/send?phone=5514991522204&text=Oi%2C%20vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20conversar%20um%20pouco"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png"   align="center" width="40px">
 </a>
