@@ -15,8 +15,11 @@
     <li>CSS</li>
     <li>JavaScript</li>
     <li>PHP</li>
+    <li>C#</li>
     <li>MySql</li>
+    <li>Postgres</li>
     <li>Laravel</li>
+    <li>React</li>
     <li>Git</li>
     </ul>
 </table>
