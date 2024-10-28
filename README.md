@@ -1,4 +1,4 @@
-<h2 align="center">Te ofereço um Bom dia!</h2>
+<h2 align="center">Muito Bom dia!</h2>
 
 <p>Meu nome é <b>Daniel Ferreira Lopes</b>, tenho atualmente 17 anos</p>
 <p>Estou atualmente estudando na Faculdade Unimar, seguindo meus esstudos na área de TI em Ánalise e Desenvolvimento de Sistemas</p>
