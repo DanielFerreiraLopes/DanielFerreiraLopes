@@ -1,6 +1,6 @@
 <h2 align="center">Muito Bom dia!</h2>
 
-<p>Meu nome é <b>Daniel Ferreira Lopes</b>, Nascido no ano de 2006</p>
+<p>Meu nome é <b>Daniel Ferreira Lopes</b></p>
 <p>Estou atualmente estudando na Faculdade Unimar, seguindo meus estudos na área de TI, cursando o Curso de Ciências da Computação</p>
 <p>Comecei meus estudos na área de programação oficialmente em 2021, cursando o Ensino médio integrado ao Técnico de Desenvolvimento de Sistemas na ETEC e terminei em 2023 me graduando.</p>
 <p></p>
