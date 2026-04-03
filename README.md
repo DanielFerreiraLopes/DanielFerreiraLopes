@@ -27,7 +27,7 @@
 
 <h2> - Contatos/Redes Sociais: </h2>
 
-<a href="www.linkedin.com/in/daniel-ferreira-lopes" target="_blank"> 
+<a href="www.linkedin.com/in/daniel-ferreira-lopes"> 
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" target="_blank"  align="center" width="40px"> 
 </a>
 
