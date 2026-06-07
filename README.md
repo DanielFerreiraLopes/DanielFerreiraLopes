@@ -25,19 +25,6 @@
 </table>
 
 
-<h2> - Contatos/Redes Sociais: </h2>
-
-<a href="www.linkedin.com/in/daniel-ferreira-lopes"> 
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" target="_blank"  align="center" width="40px"> 
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=5514991522204&text=Oi%2C%20vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20conversar%20um%20pouco"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png"   align="center" width="40px">
-</a>
-
- <a href="https://www.instagram.com/danielferreira5434/">
-    <img src="https://i.imgur.com/JrjiVq0.png" align="center" width="40px">
-</a>
 <p>
 <p>Espero nos encontramos, pode chamar se tiver algum problema ou quiser conversar</p>
 
